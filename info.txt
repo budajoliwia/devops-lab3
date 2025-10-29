@@ -1,1 +1,3 @@
-To jest moja wersja zdania 2.
+
+To jest moja wersja zdania.
+
