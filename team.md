@@ -1,4 +1,6 @@
-# Informacje o członku zespołu
-Imię: 
-Nazwisko: 
-Ulubiona technologia: 
+
+Imię: Oliwia
+Nazwisko: Budaj
+Ulubiona technologia: JS
+
+
